@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Send Denial (Sentinel)\n"
+"POT-Creation-Date: 2022-12-28 21:36+0100\n"
+"PO-Revision-Date: 2022-12-28 21:37+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: send-denial.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: core/class-controller.php:70
+msgid ""
+"protected by <a rel=\"sponsored follow\" target=\"_blank\" href=\"https://"
+"senddenial.com\">Send Denial</a><br/> <span>Spam Sentinel</span>"
+msgstr ""
+"geschützt durch <a rel=\"sponsored follow\" target=\"_blank\" href=\"https://"
+"senddenial.com\">Send Denial</a><br/> <span>Spam Wächter</span>"
+
+#: core/class-controller.php:92
+msgid "Generate new Token"
+msgstr "Neuen Token erstellen"
+
+#: core/class-options.php:28
+msgid ""
+"An error occured, you have no javascript, this websites has a problem or you "
+"are a spammer"
+msgstr ""
+"Es ist ein Fehler aufgetreten. Du hast kein Javascript, diese Webseite hat "
+"ein Problem oder du bist ein Spammer"
+
+#: core/class-options.php:39
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: core/class-options.php:45
+msgid "Credits"
+msgstr "Unterstützung"
+
+#: core/class-options.php:52
+msgid "Honeypot Field Name"
+msgstr "Honeypot Feldname"
+
+#: core/class-options.php:60
+msgid "Honeypot Field Value"
+msgstr "Honeypot Feldwert"
+
+#: core/class-options.php:68
+msgid "Show Badge"
+msgstr "Badge anzeigen"
+
+#: core/class-options.php:81
+msgid "Send Denial Anti Spam Settings"
+msgstr "Send Denial Anti Spam Einstellungen"
+
+#: core/class-options.php:94
+msgid "Send Denial"
+msgstr "Send Denial"
+
+#: core/class-options.php:99
+msgid "Save Changes"
+msgstr "Speichern"
+
+#: core/class-options.php:108
+msgid ""
+"<strong>Send Denial is built, maintained and extended for free.<br /> It "
+"will support as many major form plugins as possible for free.</strong><br /> "
+"Including Premium Form Builders and WooCommerce. Therefore helps your "
+"business stay safe and protect you from spam mails by your forms.<br /> It "
+"will never spam or hijack your wp-admin on trying to upsell a premium "
+"version. <br />If you like this way of thinking feel free to enable this "
+"checkbox. <strong>It will display a very decent and small badge below your "
+"forms</strong> that the form is protected by Send Denial and helps Send "
+"Denial get more recognition."
+msgstr ""
+"<strong>Send Denial wird kostenlos erstellt, gepflegt und erweitert.<br /> "
+"Es integriert sich nahtlos in die beliebtesten Formular Plugins.</"
+"strong><br /> Inklusive Premium Formular Builders und WooCommerce. Daher "
+"hilft es deinem Unternehmen sicher bleiben und schützt dich vor Spam-Mails "
+"durch deine Formulare.<br /> Dein wp-admin bleibt frei von Werbung.<br /"
+">Wenn dir diese Mentalität gefällt, kannst du den Haken setzen und Send "
+"Denial unterstützen. <strong>Ein dezenter kleiner Badge wird unterhalb "
+"deiner Formulare erscheinen</strong>. Das hilft Send Denial zu mehr "
+"Bekanntheit."
+
+#: core/class-options.php:116
+msgid "Create new Pair"
+msgstr "Neues Paar erzeugen"
+
+#: core/class-options.php:117
+msgid "Change the token and fieldname from time to time if you like"
+msgstr "Ändere den Token und den Feldnamen ab und zu wenn du magst"
+
+#. Plugin Name of the plugin/theme
+msgid "Send Denial (Anti Spam Sentinel)"
+msgstr "Send Denial (Anti Spam Wächter)"
+
+#. Description of the plugin/theme
+msgid ""
+"Adds javascript based honeypot validation to all major forms and blocks spam "
+"in GDPR Compliance."
+msgstr ""
+"Fügt einen Javascript basierten Honeypot in alle beliebten Formularplugins "
+"und blockiert automatisch Spam in Übereinstimmung mit DSGVO Richtlinien."
+
+#. Author of the plugin/theme
+msgid "Julian Lang"
+msgstr "Julian Lang"
+
+#. Author URI of the plugin/theme
+msgid "https://senddenial.com"
+msgstr "https://senddenial.com"
+
+#~ msgid "Send Denial (Sentinel)"
+#~ msgstr "Send Denial (Sentinel)"
+
+#~ msgid "All you every need to block Spam, GDPR"
+#~ msgstr "All you every need to block Spam, GDPR"
+
+#~ msgid "https://julianlang.net"
+#~ msgstr "https://julianlang.net"
